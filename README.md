@@ -12,6 +12,6 @@
 - PostgreSQL
 - MVS
 
-## GitHub
+## GitHub:
 [Back-End](https://github.com/issa097/Tourism)
 [Front-End](https://github.com/sajidaajawin/Tourisim)
